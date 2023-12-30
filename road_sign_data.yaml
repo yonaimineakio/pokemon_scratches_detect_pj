@@ -1,0 +1,7 @@
+train: /content/labels/train
+val: /content/labels/val
+test: /content/labels/test
+
+nc: 8
+
+names ["scratch", "broken", "shirokake", "concave", "rub_back", "rub_front", "dirt", "wrinkles"]
